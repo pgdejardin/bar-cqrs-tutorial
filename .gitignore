@@ -1,2 +1,7 @@
+## IDEA
+.idea/
+
+## SBT
+**/*.jar
 *.class
 *.log
